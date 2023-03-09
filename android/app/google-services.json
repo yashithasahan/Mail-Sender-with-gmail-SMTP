@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77644899426",
+    "project_id": "mailer-demo-c330c",
+    "storage_bucket": "mailer-demo-c330c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77644899426:android:22ebf7b68fda8bd7001d3b",
+        "android_client_info": {
+          "package_name": "com.example.mailer_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77644899426-l2fch7pc0lf6tsf6jp0o6ot0g1rcqpm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF666m9jr0SGFPUuiaQoBCwVwi07uPXSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77644899426-e6m9tt3paiqm0pccf045u17poa1mdqe6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
